@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC -DQT_QML_DEBUG -g -shared -Wl,-soname,libTASK4LIB.so -o libTASK4LIB.so CMakeFiles/TASK4LIB.dir/TASK4LIB_autogen/mocs_compilation.cpp.o CMakeFiles/TASK4LIB.dir/task4lib.cpp.o  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 

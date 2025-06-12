@@ -1,0 +1,9 @@
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/Task4.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/install.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/Task4_autogen_timestamp_deps.dir
+/home/loliwasd/OAiP/LR3/Task4/build/Desktop-Debug/CMakeFiles/Task4_autogen.dir

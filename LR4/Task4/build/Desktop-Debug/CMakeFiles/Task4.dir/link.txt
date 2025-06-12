@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g CMakeFiles/Task4.dir/Task4_autogen/mocs_compilation.cpp.o CMakeFiles/Task4.dir/main.cpp.o -o Task4  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 
